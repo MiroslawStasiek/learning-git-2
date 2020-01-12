@@ -1,0 +1,19 @@
+$font-header: 'Mitr', sans-serif;
+$font-text: 'Scada', sans-serif;
+body {
+    margin: 0;
+    text-align: center;
+    backgroud: #fff;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 1.7;
+}
+h1, h2 {
+    font-family: $font-header;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 20px;
+}
