@@ -5,18 +5,21 @@ body {
     color: #3d3d3d;
     font-size: 16px;
     line-height: 1.7;
-    font-family: $font-tex
 }
 .container {
     max width: 1140px;
     margin: 0 auto;
     padding: 0 20px;
 }
+.poem h1 h2 {
+    font-weight: bold;
+}
 h1 {
     font-size: 30px;
-    color: blue
+    color: blue;
 }
+    
 h2 {
     font-size: 20px;
-    color: green
+    color: green;
 }
